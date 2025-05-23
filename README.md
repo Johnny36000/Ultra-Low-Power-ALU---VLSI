@@ -84,4 +84,4 @@ The ultra-low power ALU successfully demonstrates:
 
 -Successful subthreshold operation across multiple functional blocks
 
-**This implementation showcases advanced low-power design techniques and proves the feasibility of subthreshold ALU operation for ultra-low power applications.****
+**This implementation showcases advanced low-power design techniques and proves the feasibility of subthreshold ALU operation for ultra-low power applications.**
