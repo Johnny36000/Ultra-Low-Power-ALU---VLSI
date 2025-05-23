@@ -8,7 +8,7 @@ This project presents the design and implementation of a 4-bit ALU optimized for
 
 **Key Components**:
 
--Ripple Carry Adder (RCA) for arithmetic operations
+- Ripple Carry Adder (RCA) for arithmetic operations
 
 -Multiplexer-based shifters for bit manipulation
 
