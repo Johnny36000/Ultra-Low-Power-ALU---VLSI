@@ -44,7 +44,7 @@ The ALU design focuses on power optimization through strategic component selecti
 -Optimized for minimal propagation delay
 
 -Power Optimization Achievement
--**Subthreshold Operation Success**
+**Subthreshold Operation Success**
 **The most significant achievement of this project is the successful implementation of subthreshold operation across multiple ALU blocks**. Through careful voltage scaling and circuit optimization:
 
 -Voltage Reduction: Successfully reduced the operating DC voltage from 0.8V to 0.1V - an 87.5% reduction in supply voltage.
