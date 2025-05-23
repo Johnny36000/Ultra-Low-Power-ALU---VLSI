@@ -1,9 +1,9 @@
 # Ultra-Low-Power-ALU-VLSI
 
-Ultra Low Power 4-Bit ALU Design
+  Ultra Low Power 4-Bit ALU Design
 A high-efficiency 4-bit Arithmetic Logic Unit (ALU) implementation optimized for ultra-low power consumption using subthreshold operation techniques in Cadence Virtuoso.
 
-Project Overview
+  Project Overview
 This project presents the design and implementation of a 4-bit ALU optimized for minimal power consumption in digital systems. The ALU incorporates carefully selected architectural components and operates in the subthreshold region to achieve exceptional power efficiency while maintaining functionality.
 
 Key Components:
